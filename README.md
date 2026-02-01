@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @AbhayPratap9999<br>- 👀 I’m interested in Web D and App D<br>- 🌱 I’m currently learning new developing skills<br>- 💞️ I’m looking to collaborate on innovative projects!<br>- 📫 Reach me at abhaypratapsins99@gmail.com<br>- 😄 Pronouns: He/Him
+- 👋 Hi, I’m Abhay Pratap Singh!<br>- 👀 I’m interested in Web Dev and DSA<br>- 🌱 I’m currently enhancing developing skills<br>- 💞️ I’m looking to collaborate on innovative open source projects!<br>- 📫 Reach me at abhaypratapsins99@gmail.com<br>- 😄 Pronouns: He/Him
 
 
 ## 🌐 Socials:
